@@ -6,5 +6,5 @@
     "home_message" : "home_message",
     "home_title" : "home_title",
     "home_learnmore" : "home_learnmore",
-    "showimage" : true
+    "showimage" : false
 }
