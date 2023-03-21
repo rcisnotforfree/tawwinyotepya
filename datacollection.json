@@ -1,7 +1,7 @@
 {
     "home_image" : "https://raw.githubusercontent.com/rcisnotforfree/ImageCollection/main/skipads1.png",
     "home_link" : "https://raw.githubusercontent.com/rcisnotforfree/ImageCollection/main/skipads1.png",
-    "home_status" : 3,
+    "home_status" : 0,
     "server_key": "WVVoU01HTkViM1pNTWtaM1kwUkpkV0pYTVhwaFJ6a3dXbTE0Y0dKVE5UUmxXRzkyV0RKR2QyTkhlSEJaTWtZd1lWYzVkVk5YVW1aWk1qbDBURzFHZDJORE5UVmlNMVo1WTIxV2FtRllRbXhaV0VKMw==",
     "home_message" : "<p style=\"text-align: justify;\">
   အားလုံးပဲ မင်္ဂလာပါ။
@@ -70,5 +70,5 @@
 <p><br />အားလုံးကို ကျေးဇူးတင်ပါတယ်။</p>",
     "home_title" : "Channel Myanmar",
     "home_learnmore" : "http://channelmyanmar.org/",
-    "showimage" : false
+    "showimage" : true
 }
